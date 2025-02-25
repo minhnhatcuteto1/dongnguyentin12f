@@ -8,4 +8,6 @@ function login()
    Window.open()
    document.getElementByid(compiler).style.display="block"
   }
+  else
+   document.write("sai tên đăng nhập hoặc mật khẩu")
 }
