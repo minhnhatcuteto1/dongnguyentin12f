@@ -6,7 +6,7 @@ function login()
   if (u == "hutao" && p == "123")
   {
    Window.open("home.html")
-   document.getElementByid(compiler).style.display="block"
+   document.getElementByid(compiler).style.display = "block"
   }
   else
    document.write("sai tên đăng nhập hoặc mật khẩu")
