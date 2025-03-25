@@ -10,9 +10,13 @@
  }
  h2{color:font-family:;}
  h3{color: yellow;}
- .header 
- { color : red; background-color :#F1F1F1; 
+ .header{ color : red; background-color :#F1F1F1; 
   text-align: center; font-weight: bold; padding: 15px;
  }
  .menu{background-color:#333;pandding 5px; color:blue}
  .noidung{}
+ maudo {color:red;}
+.header{color: white; text-align:center; padding: 20px; background-color:black;}
+.topnav {overflow: hidden; background-color: #333; }
+.topnav a {float: left; display: block; color: pink; text-align: center; padding: 14px 16px; text-decoration: none;}
+.topnav a:hover {background-color:#ddd; color:black;}
