@@ -1,25 +1,33 @@
-html {
+<html>
+  < head >
+    < meta charset = " utf - 8 " >
+    < meta name = " viewport " content = " width = device - width " >
+    < title > BÀI TẬP TIN HỌC 120 < / title >
+    < link href = " style.css " rel = " stylesheet " type = " text / css " / >
+ {
   height: 100%;
   width: 100%;
-}
-h2{color: firebrick;font-family:Verdana;}
-h3{color: indianred;}
-.header 
-{ color : red; background-color :#F1F1F1; 
- text-align: center; font-weight: bold; padding: 15px;
-}
-.menu{}
-.menu a{}
-<div class="topnav">
-  <a href="Contents/gioithieu.html">Giới thiệu</a>
-  <a href="Contents/duan.html">Dự án nhóm</a>
-  <a href="Contents/tkb.html">Thời khóa biểu</a>
-  <a href="nvi.html">Góp ý</a>
-</div>
-<div class="content">
+ }
+ h2{color: firebrick;font-family:Verdana;}
+ h3{color: indianred;}
+ .header 
+ { color : red; background-color :#F1F1F1; 
+  text-align: center; font-weight: bold; padding: 15px;
+ }
+ .menu{}
+ .menu a{}
+<body>
+ <div class="topnav">
+   <a href="Contents/gioithieu.html">Giới thiệu</a>
+   <a href="Contents/duan.html">Dự án nhóm</a>
+   <a href="Contents/tkb.html">Thời khóa biểu</a>
+   <a href="nvi.html">Góp ý</a>
+ </div>
+ <div class="content">
   <p>NỘI DUNG</p>
   <p></p>
-</div>
-<div class="content">
- <p> NỘI DUNG </p>
-  <iframe name = "nd">
+ </div>
+ <div class="content">
+  <p> NỘI DUNG </p>
+   <iframe name = "nd">
+ </body>
