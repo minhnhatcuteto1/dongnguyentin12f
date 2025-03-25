@@ -8,8 +8,8 @@
   height: 100%;
   width: 100%;
  }
- h2{color: firebrick;font-family:Verdana;}
- h3{color: indianred;}
+ h2{color:font-family:;}
+ h3{color: yellow;}
  .header 
  { color : red; background-color :#F1F1F1; 
   text-align: center; font-weight: bold; padding: 15px;
